@@ -1,0 +1,82 @@
+
+
+.body{
+	background-color: #c9c9c9;
+}
+#jumbotron {
+	text-align: center;
+	background-color: #00B4FF;
+	font-size: bolder;
+}
+#display {
+	font-weight: bolder;
+}
+#choo {
+	font-weight: bold;
+}
+#trainSchedules {
+	background-color: #EEEEEE;
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+#formContainer {
+	background-color: #EEEEEE;
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+form {
+	margin: 15px;
+}
+h2 {
+	padding: 5px;
+}
+section {
+	background-color: #00B4FF;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+#trainName {
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+#destination {
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+#trainTime {
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+#frequency{
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
